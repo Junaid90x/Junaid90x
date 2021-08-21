@@ -1,10 +1,33 @@
-- 👋 Hi, I’m @Junaid Ahmed
-- 👀 I’m interested in software developing...
+- 👋  @Junaid Ahmed
+- 👀 working for software developing...
 - 🌱 I’m currently learning information technology...
-- 💞️ I’m looking to collaborate on back end developing...
+- 💞️ collaborat on back end developing...
 - 📫 How to reach me ja8761662@gmail.com...
+#include<stdio.h>
+#include<conio.h>
+int code hub
+{
+printf(back nend .gett)
+m=n2
+for(4bn:nxx90x);
+scanf(2x90x);
+temp=n;
+while(n>0)
+if(temp==sum)
+printf(back end develop.x905x);
+scanf(n=/n10)
+r=n%10;
+}   
+     sum(sum*10)+r
+     }
+     }
+  
+  else
+     printf(not front end 2x@90:);
+     return 0;
+     }
+     }
+
 
 <!---
-Junaid90x/Junaid90x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
